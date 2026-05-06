@@ -1,4 +1,5 @@
-![GitHub License](https://img.shields.io/github/license/wilmeryf/gpo-restricao-rede?style=for-the-badge)
+![GitHub License](https://img.shields.io/github/license/wilmeryf/gpo-restricao-rede?style=for-the-badge) -
+![Segurança](https://img.shields.io/badge/Rede-Segurança-blue?style=for-the-badge&logo=windows)
 
 # GPO - Restrição de Configuração de Rede
 
