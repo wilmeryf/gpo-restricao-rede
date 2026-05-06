@@ -30,7 +30,7 @@ Com GPOs, é possível:
 
 ## Demonstração
 
-![Bloqueio do usuário](Imagens/07-bloqueio-usuario.png)
+![Bloqueio do usuário](Imagem/07-bloqueio-usuario.png)
 
 ---
 
