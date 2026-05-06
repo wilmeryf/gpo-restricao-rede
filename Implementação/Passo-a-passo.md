@@ -47,7 +47,7 @@ Configuração do Usuário → Políticas → Modelos Administrativos → Rede �
 
 ## 5. Configurando a política
 
-- Localize a política: **"Proibir acesso a propriedades de componentes de conexão de rede local"**  
+- Localize a política: **"Proibir acesso às propriedades de uma conexão de rede local"**  
 - Abra a política  
 - Marque a opção **Habilitado**  
 - Clique em **Aplicar** e depois em **Ok**
