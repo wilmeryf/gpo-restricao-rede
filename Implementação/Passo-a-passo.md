@@ -8,7 +8,7 @@ Demonstrar o processo de criação e aplicação de uma GPO que impede usuários
 
 ---
 
-## 1. Acessando o Group Policy Management (GPMC)
+## 1. Acessando o Gerenciamento de Política de Grupo (GPMC)
 
 Abra o **Gerenciamento de Política de Grupo** no servidor para iniciar a criação da política.
 
