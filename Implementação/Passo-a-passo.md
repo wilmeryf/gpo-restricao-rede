@@ -1,4 +1,4 @@
-# Implementação da GPO - Restrição de Configurações de Rede
+# Implementação da GPO
 
 ---
 
