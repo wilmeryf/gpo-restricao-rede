@@ -5,7 +5,7 @@
 
 **Unidade Curricular 7 - SENAC**
 
-> **Data: 05 e 06 de maio de 2026**
+> **Data:** 05 e 06 de maio de 2026
 
 **Professor:** Leandro Ramos
 
