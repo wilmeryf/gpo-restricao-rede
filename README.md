@@ -13,7 +13,7 @@
 
 ## Descrição
 
-Esta atividade demonstra a criação e aplicação de uma GPO (Group Policy Object) para impedir que usuários alterem configurações de rede, como endereço IP, DNS e gateway.
+Esta atividade demonstra a criação e aplicação de uma GPO para impedir que usuários alterem configurações de rede, como endereço IP, DNS e gateway.
 
 ---
 
